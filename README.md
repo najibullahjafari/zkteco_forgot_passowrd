@@ -4,7 +4,7 @@ If you forgot your zk device ex attendnace machine..., No problem! here is how t
 ## How to Reset Admin Password For ZKTECO Fingerprint Device
 Just follow these steps to unlock the device.
 
-1.Download the ZKTECO Password Reset Tool to your PC.(download it form file folder of this repository!)
+1.Download the ZKTECO Password Reset Tool to your PC.(download it this repository!)
 
 
 2.Go to your fingerprint device and Note down the TIME. 
