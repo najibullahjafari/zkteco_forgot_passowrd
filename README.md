@@ -13,6 +13,7 @@ Just follow these steps to unlock the device.
 
 ![1648624108668340](https://github.com/user-attachments/assets/a4c3ae6b-fbdd-4a2e-8c35-fe0468448a52)
 
+
 4. Enter the time as shown above and click create. 
 
 5.You will be given a temporary password to unlock the device within that minute.
