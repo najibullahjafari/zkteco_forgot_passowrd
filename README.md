@@ -10,6 +10,7 @@ Just follow these steps to unlock the device.
 2.Go to your fingerprint device and Note down the TIME. 
 
 3.Now Open the ZKTeco Password Reset Tool Software and enter the Time shown in the Fingerprint. (E.g. If the time shown in the Fingerprint is 14:20, you should enter in the software as 1420). See the Pic Below
+
 ![1648624108668340](https://github.com/user-attachments/assets/a4c3ae6b-fbdd-4a2e-8c35-fe0468448a52)
 
 4. Enter the time as shown above and click create. 
